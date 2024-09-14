@@ -7,6 +7,6 @@ https://www.ilovepdf.com/id/memisahkan-pdf
 # Setelah memilih File PDF, kemudian isi dibagian sebelah kanan
 ![image](https://github.com/user-attachments/assets/120f56e9-8e46-4572-af83-92fe51cd8ad2)
 # Isi sesuai kebutuhan/keperluan
-Untuk memisahkan secara sekaligus/langsung semua piling menu ```"Tambahkan Rentang"``` ,kemudian isi kembali halaman yang ingin di pisah
+Untuk memisahkan secara sekaligus/langsung semua pilih menu ```"Tambahkan Rentang"``` ,kemudian isi kembali halaman yang ingin di pisah
 # Video Tutorial
 [15.09.2024 05_11.webm](https://github.com/user-attachments/assets/ab0f4c38-8d0a-4aa3-8c18-8b9282260d5a)
